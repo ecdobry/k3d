@@ -31,3 +31,5 @@ qodana.yaml
 # Pipenv
 Pipfile*
 
+# direnv
+.direnv
